@@ -1,11 +1,13 @@
 # Countries List
 
-This project displays the list of world countries data (name, region and area).\
+This project created with React displays the list of world countries data (name, region and area).\
  The list is sortable alphabetically by name (ascending, descending).\
  This list also has filters to filter countries:
 
 - That are smaller than Lithuania by area.
 - That are in “Oceania” region.
+
+![](./countries list.jpg)
 
 ## Info
 
