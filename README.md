@@ -1,6 +1,6 @@
 # Countries List
 
-This project created with React displays the list of world countries data (name, region and area).\
+This project was created with React displays the list of world countries data (name, region and area).\
  The list is sortable alphabetically by name (ascending, descending).\
  This list also has filters to filter countries:
 
