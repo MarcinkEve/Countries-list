@@ -7,7 +7,7 @@ This project was created with React displays the list of world countries data (n
 - That are smaller than Lithuania by area.
 - That are in “Oceania” region.
 
-![](./countries list.jpg)
+![](countries list.jpg)
 
 ## Info
 
