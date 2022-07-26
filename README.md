@@ -9,6 +9,9 @@ This project was created with React displays the list of world countries data (n
 
 ![](countries-list.jpg)
 
+Live demo:
+https://countries-marcinkeve.vercel.app/
+
 ## Info
 
 It runs on it's own server at `http://localhost:3000`.\
